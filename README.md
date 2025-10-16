@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm a long-time C# coder now enjoying learning Python as I build a bunch of new projects. Being disabled, my coding these days is focused on projects I want to do—things that are fun and keep me busy—and I do a lot of AI projects for fun. I'll add some of my favorite repos later. I also love 3D printing, and a lot of my projects now seek to combine my coding, AI, and 3D printing hobbies. I have some things I'm building that I'm excited to share as soon as they're in a state I feel comfortable sharing.
+
 <!--
 **dterracino/dterracino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
