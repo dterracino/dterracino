@@ -27,6 +27,32 @@ I have some exciting things in the works that I can't wait to share once they're
 
 ---
 
+## 🎨 Featured Project: color_tools
+
+<div align="center">
+
+[![color_tools](https://github-readme-stats.vercel.app/api/pin/?username=dterracino&repo=color_tools&theme=tokyonight&hide_border=true)](https://github.com/dterracino/color_tools)
+
+</div>
+
+My most active Python project — **[color_tools](https://github.com/dterracino/color_tools)** is a color science library I built to solve a real problem: finding the perfect 3D printing filament to match any given color. It sits at the intersection of all my hobbies.
+
+- 🔬 **Perceptual color distance** — Delta E formulas (CIEDE2000, CIE94, HyAB) for accurate human-eye matching
+- 🖨️ **584+ filament database** — major manufacturers indexed with semantic IDs like `bambu-lab-pla-silk-red`
+- 🌈 **Full color space support** — RGB → LAB → LCH → CMYK with gamut checking
+- 👁️ **Colorblindness simulation & correction** — protanopia, deuteranopia, tritanopia
+- 🎮 **Retro palette quantization** — convert images to CGA, EGA, VGA, Game Boy palettes with dithering
+
+<div align="center">
+
+[![PyPI version](https://img.shields.io/pypi/v/color-match-tools?style=for-the-badge&logo=pypi&logoColor=white&color=3776AB)](https://pypi.org/project/color-match-tools/)
+[![PyPI - Python Version](https://img.shields.io/pypi/pyversions/color-match-tools?style=for-the-badge&logo=python&logoColor=white&color=3776AB)](https://pypi.org/project/color-match-tools/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)](https://github.com/dterracino/color_tools/blob/main/LICENSE)
+
+</div>
+
+---
+
 ## 🛠️ Tech Stack
 
 <div align="center">
@@ -62,7 +88,7 @@ I have some exciting things in the works that I can't wait to share once they're
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=dterracino&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=dterracino&show_icons=true&theme=tokyonight&hide_border=true" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dterracino&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
 
 </div>
