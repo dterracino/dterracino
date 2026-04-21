@@ -101,16 +101,6 @@ My most active Python project — **[color_tools](https://github.com/dterracino/
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=dterracino&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
 ## 📈 Contribution Activity
 
 <div align="center">
@@ -118,22 +108,6 @@ My most active Python project — **[color_tools](https://github.com/dterracino/
 [![dterracino's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dterracino&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dterracino/dterracino/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dterracino/dterracino/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/dterracino/dterracino/output/github-contribution-grid-snake.svg" />
-</picture>
-
-</div>
-
-> 💡 To enable the snake animation, add a GitHub Actions workflow that generates and pushes the SVG to the `output` branch. See [Platane/snk](https://github.com/Platane/snk) for setup instructions.
 
 ---
 
