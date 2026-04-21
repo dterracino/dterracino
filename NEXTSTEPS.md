@@ -21,6 +21,18 @@ You can also embed a full weekly stat card:
 
 ---
 
+## 🏆 GitHub Trophies
+
+This was removed from the README.md file because it appeared to be broken.,
+
+```markdown
+<div align="center">
+[![trophy](https://github-profile-trophy.vercel.app/?username=dterracino&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+</div>
+```
+
+---
+
 ### [GitHub Profile Summary Cards](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 Generates a rich set of summary cards (productive time, repos per language, commits per language) via a GitHub Actions workflow.
 
