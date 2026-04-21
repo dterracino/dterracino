@@ -1,18 +1,128 @@
-### Hi there 👋
+<div align="center">
 
-I'm a long-time C# coder now enjoying learning Python as I build a bunch of new projects. Being disabled, my coding these days is focused on projects I want to do—things that are fun and keep me busy—and I do a lot of AI projects for fun. I'll add some of my favorite repos later. I also love 3D printing, and a lot of my projects now seek to combine my coding, AI, and 3D printing hobbies. I have some things I'm building that I'm excited to share as soon as they're in a state I feel comfortable sharing.
+<!-- Animated header banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hey%2C%20I'm%20dterracino!&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=C%23%20%7C%20Python%20%7C%20AI%20%7C%203D%20Printing&descAlignY=53&descSize=18" width="100%" />
 
-<!--
-**dterracino/dterracino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Typing animation -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Long-time+C%23+developer+%F0%9F%92%BB;Now+learning+Python+%F0%9F%90%8D;Building+AI+projects+for+fun+%F0%9F%A4%96;Combining+code%2C+AI+%26+3D+printing+%F0%9F%96%A8%EF%B8%8F;Always+building+something+new+%E2%9A%A1)](https://git.io/typing-svg)
 
-Here are some ideas to get you started:
+<!-- Visitor counter -->
+![Visitor Count](https://komarev.com/ghpvc/?username=dterracino&style=for-the-badge&color=0e75b6&label=PROFILE+VIEWS)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+---
+
+## 🙋 About Me
+
+I'm a long-time **C# developer** who's now really enjoying learning **Python** as I build a bunch of new projects. Being disabled, my coding these days is focused on projects I *want* to do — things that are fun and keep me busy. I do a lot of **AI projects** for fun, and I'm passionate about **3D printing**. Many of my current projects seek to combine all three hobbies together.
+
+I have some exciting things in the works that I can't wait to share once they're polished enough to show off. Stay tuned! 👀
+
+- 🔭 &nbsp;Currently building projects that merge **AI + 3D printing**
+- 🌱 &nbsp;Deepening my **Python** skills every day
+- 🤖 &nbsp;Big fan of **LLMs, generative AI, and automation**
+- 🖨️ &nbsp;3D printing enthusiast — from design to print
+- ⚡ &nbsp;Fun fact: I went from C# to Python and never looked back for AI work
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### Languages
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+
+### AI / ML
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+
+### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+### 3D Printing
+![Blender](https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=dterracino&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dterracino&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=dterracino&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=dterracino&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+[![dterracino's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dterracino&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dterracino/dterracino/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dterracino/dterracino/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/dterracino/dterracino/output/github-contribution-grid-snake.svg" />
+</picture>
+
+</div>
+
+> 💡 To enable the snake animation, add a GitHub Actions workflow that generates and pushes the SVG to the `output` branch. See [Platane/snk](https://github.com/Platane/snk) for setup instructions.
+
+---
+
+## 💬 Dev Quote of the Day
+
+<div align="center">
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" />
+
+</div>
